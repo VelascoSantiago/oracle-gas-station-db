@@ -47,7 +47,9 @@ El sistema simula reglas y procesos reales como:
 Este repositorio también incluye:
 - `diagrama_MER.png`: Modelo Entidad-Relación  
 - `modelo_relacional.png`: Modelo Relacional  
-- `esquema_relacional.pdf`: Descripción textual del esquema  
+- `esquema_relacional.pdf`: Descripción textual del modelo relacional
+- `diccionario_datos.pdf`: Diccionario de datos de la base
+- `doc_funcionalidad`: Documentación de las consultas, vistas, trigger y procedimiento almacenado
 
 ## Autor  
 Santiago Velasco García – *Mayo 2025*  
@@ -108,7 +110,9 @@ The system models real-world business rules such as:
 Included in this repo:
 - `diagrama_MER.png`: Entity-Relationship Diagram  
 - `modelo_relacional.png`: Relational Model  
-- `esquema_relacional.pdf`: Full relational schema description  
+- `esquema_relacional.pdf`: Full relational schema description
+- `diccionario_datos.pdf`: Database data dictionary
+- `doc_funcionalidad.pdf`: Documentation of queries, views, triggers, and stored procedures
 
 ## Author  
 Santiago Velasco García – *May 2025*  
