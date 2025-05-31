@@ -45,6 +45,7 @@ El sistema simula reglas y procesos reales como:
 
 ## Diagramas y documentación adicional  
 Este repositorio también incluye:
+- `reglas_negocio.pdf`: Documento con las reglas del negocio y especificaciones del sistema 
 - `diagrama_MER.png`: Modelo Entidad-Relación  
 - `modelo_relacional.png`: Modelo Relacional  
 - `esquema_relacional.pdf`: Descripción textual del modelo relacional
@@ -108,6 +109,7 @@ The system models real-world business rules such as:
 
 ## Diagrams and Documentation  
 Included in this repo:
+- `reglas_negocio.pdf`: Document containing the business rules and system specifications
 - `diagrama_MER.png`: Entity-Relationship Diagram  
 - `modelo_relacional.png`: Relational Model  
 - `esquema_relacional.pdf`: Full relational schema description
