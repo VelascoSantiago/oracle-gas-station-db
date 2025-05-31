@@ -48,7 +48,7 @@ Este repositorio también incluye:
 - `reglas_negocio.pdf`: Documento con las reglas del negocio y especificaciones del sistema 
 - `diagrama_MER.png`: Modelo Entidad-Relación  
 - `modelo_relacional.png`: Modelo Relacional  
-- `esquema_relacional.pdf`: Descripción textual del modelo relacional
+- `esquema_relacional.pdf`: Descripción textual del modelo relacional y consideraciones semánticas
 - `diccionario_datos.pdf`: Diccionario de datos de la base
 - `doc_funcionalidad`: Documentación de las consultas, vistas, trigger y procedimiento almacenado
 
@@ -112,7 +112,7 @@ Included in this repo:
 - `reglas_negocio.pdf`: Document containing the business rules and system specifications
 - `diagrama_MER.png`: Entity-Relationship Diagram  
 - `modelo_relacional.png`: Relational Model  
-- `esquema_relacional.pdf`: Full relational schema description
+- `esquema_relacional.pdf`: Full relational schema description and semantic considerations
 - `diccionario_datos.pdf`: Database data dictionary
 - `doc_funcionalidad.pdf`: Documentation of queries, views, triggers, and stored procedures
 
